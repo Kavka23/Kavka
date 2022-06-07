@@ -66,3 +66,10 @@ td{
 p{
     text-align: center;
 }
+
+.videos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
